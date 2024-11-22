@@ -36,7 +36,7 @@ const std::unordered_map<LocaleConstant, std::string> TRANSMOG_TEXT_HOWWORKS = {
     {LOCALE_koKR, "형상변환은 어떻게 작동합니까?"},
     {LOCALE_frFR, "Comment fonctionne la transmogrification ?"},
     {LOCALE_deDE, "Wie funktioniert Transmogrifizierung?"},
-    {LOCALE_zhCN, "变形术是如何运作的？"},
+    {LOCALE_zhCN, "幻化是如何运作的？"},
     {LOCALE_zhTW, "幻化是如何運作的？"},
     {LOCALE_esES, "¿Cómo funciona la transfiguración?"},
     {LOCALE_esMX, "¿Cómo funciona la transfiguración?"},
